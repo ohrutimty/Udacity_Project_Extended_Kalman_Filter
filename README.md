@@ -140,6 +140,7 @@ A well written README file can enhance your project and portfolio.  Develop your
 The green points are prediction points.
 
 This is the result for using both radar and laser data.
+After doing with angle normalization, the RMSE is less than the values [.11, .11, 0.52, 0.52].
 
 ![alt text][image1]
 
